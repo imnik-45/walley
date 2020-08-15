@@ -2,9 +2,29 @@
 
 Walley is a photo sharing web App.Share you photos to everyone and download the ones you like.
 
-## Snapshot
+> Made in React powered by Firebase.
 
- > still to be written..
+## Dependencies
+<br/>
+
+- framer-motion
+
+<br/>
+
+## Snapshots
+
+### Homepage
+![Screenshot_2020-08-15 Walley](https://user-images.githubusercontent.com/51753810/90317674-af4e3900-df48-11ea-89ca-acb17b0cbdec.jpg)
+<hr>
+
+### Image Upload
+![Screenshot_2020-08-15 Walley(1)](https://user-images.githubusercontent.com/51753810/90317701-d1e05200-df48-11ea-8a36-9081f7da851b.jpg)
+<hr>
+
+### View Image
+![Screenshot_2020-08-15 Walley](https://user-images.githubusercontent.com/51753810/90317713-e45a8b80-df48-11ea-98f1-bd96bd873cb3.png)
+
+<hr>
 
 ## React
 
@@ -27,11 +47,8 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `Closing Server`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+use `cmd+c` in terminal.
 
-The build is minified and the filenames include the hashes.<br />
-
-
+<hr>
