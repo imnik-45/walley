@@ -28,6 +28,16 @@ Walley is a photo sharing web App.Share you photos to everyone and download the 
 
 <hr>
 
+## Firebase Config For Api Key
+
+- Open the Firebase console.
+- Click "CREATE NEW PROJECT". ...
+- The "Create a project" window opens. ...
+- The start screen of the Firebase console opens. ...
+- The "Enter app details" screen opens. ...
+- Continue the configuration by following the on-screen instruction. ...
+- Check the server key after the project is created.
+
 ## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
