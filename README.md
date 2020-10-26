@@ -25,7 +25,6 @@ Walley is a photo sharing web App.Share you photos to everyone and download the 
 ## Snapshots
 
 ### Homepage
-<hr>
 
 ![Screenshot_2020-08-15 Walley](https://user-images.githubusercontent.com/51753810/90317674-af4e3900-df48-11ea-89ca-acb17b0cbdec.jpg)
 <hr>
