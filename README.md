@@ -21,7 +21,7 @@ Walley is a photo sharing web App.Share you photos to everyone and download the 
 - Continue the configuration by following the on-screen instruction. ...
 - Check the Api key after the project is created.
 - Add this Api Key in Project's Config.js file to run the project.
-
+<!--
 ## Snapshots
 
 ### Homepage
@@ -39,7 +39,7 @@ Walley is a photo sharing web App.Share you photos to everyone and download the 
 <hr>
 
 
-
+-->
 ## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
